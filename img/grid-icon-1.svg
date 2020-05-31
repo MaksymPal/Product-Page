@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+
+ <g style="">
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g style="" class="currentLayer">
+  <title>Layer 1</title>
+  <path id="svg_1" stroke="#52458A" d="m6.614942,3.385058l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_2" stroke="#52458A" d="m12.5,3.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_3" stroke="#52458A" d="m6.5,9.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_4" stroke="#52458A" d="m12.5,9.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_5" stroke="#52458A" d="m6.5,15.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_6" stroke="#52458A" d="m12.5,15.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_7" stroke="#52458A" d="m0.4921129194030762,3.499997 l0,-3 l3,0 l0,3 l-3,0 z" class="" fill="none"/>
+  <path id="svg_8" stroke="#52458A" d="m0.523003,9.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+  <path id="svg_9" stroke="#52458A" d="m0.523003,15.5l0,-3l3,0l0,3l-3,0z" class="" fill="none"/>
+ </g>
+</svg>
